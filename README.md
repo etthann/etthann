@@ -1,6 +1,6 @@
 ## Hi, I'm Ethan 😃😃
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ethan_Ieong-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ethan-ieong) 
-[![Email](https://img.shields.io/badge/Email-Message%20me-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:ethanieong99@gmail.com)<br/>
+[![Email](https://img.shields.io/badge/Gmail-ethanieong99@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:ethanieong99@gmail.com)<br/>
 ### About Me
 🌱 I’m a computer engineering student who’s passionate in embedded systems and low-level software. <br/>
 📖 I love reading and I am currently reading The Handmaid's Tale.
