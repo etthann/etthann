@@ -1,4 +1,4 @@
-## Hi there my name is Ethan, and I am a computer engineering student, and I am interested in embedded systems👋
+## Hi there my name is Ethan, and I am a computer engineering student, and I am interested in embedded systems😃😃
 
 <!--
 **etthann/etthann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
