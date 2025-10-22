@@ -1,7 +1,6 @@
 ## Hi, I'm Ethan 👋
 
-I'm a Computer Engineering student with a growing passion for **embedded systems**. I love turning ideas into firmware and squeezing performance out of tiny chips.
-
+I’m a computer engineering student who’s into embedded systems and low-level software
 
 [![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=etthann)](https://github.com/etthann/github-readme-stats)
 <!--
