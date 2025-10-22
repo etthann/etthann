@@ -3,6 +3,8 @@
 I’m a computer engineering student who’s into embedded systems and low-level software
 
 [![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=etthann)](https://github.com/etthann/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etthann&stats_format=Compact)
 <!--
 **etthann/etthann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
