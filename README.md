@@ -16,6 +16,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=etthann&show_icons=true" />
+
 </picture>
 
 
@@ -60,3 +61,8 @@
 - Building a flight control stack for canards
 - Writing a CAN bus driver for inter-board communication on custom PCBs
 
+## GitHub Stats
+
+  <a href="https://github.com/etthann"> 
+     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=etthann&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
