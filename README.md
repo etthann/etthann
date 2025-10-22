@@ -1,6 +1,6 @@
 ## Hi, I'm Ethan 👋
 
-I'm a Computer Engineering student with a growing passion for **embedded systems**—from bare-metal C on MCUs to RTOS-based designs. I love turning ideas into firmware and squeezing performance out of tiny chips.
+I'm a Computer Engineering student with a growing passion for **embedded systems**. I love turning ideas into firmware and squeezing performance out of tiny chips.
 
 <!--
 **etthann/etthann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
