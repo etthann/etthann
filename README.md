@@ -1,6 +1,8 @@
 ## Hi, I'm Ethan 👋
 
 I'm a Computer Engineering student with a growing passion for **embedded systems**. I love turning ideas into firmware and squeezing performance out of tiny chips.
+
+
 [![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=etthann)](https://github.com/etthann/github-readme-stats)
 <!--
 **etthann/etthann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
