@@ -1,4 +1,6 @@
-## Hi there my name is Ethan, and I am a computer engineering student, and I am interested in embedded systems😃😃
+## Hi, I'm Ethan 👋
+
+I'm a Computer Engineering student with a growing passion for **embedded systems**—from bare-metal C on MCUs to RTOS-based designs. I love turning ideas into firmware and squeezing performance out of tiny chips.
 
 <!--
 **etthann/etthann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
