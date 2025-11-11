@@ -15,7 +15,7 @@ I'm currently diving deep into C/C++ and hardware-level programming. Here's what
 * 🚗 Writing a low-level **CAN bus driver** for inter-board communication on custom-designed PCBs.
 * 💻 Updating my personal portfolio website.
 
-🌱 Outside of engineering, I love reading—currently working my way through *The Handmaid's Tale*.
+🌱 Outside of engineering, I love reading, currently working my way through *The Handmaid's Tale*.
 
 ---
 
