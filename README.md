@@ -12,6 +12,7 @@ A Computer Engineering student passionate about **embedded systems**, **robotics
 I'm currently diving deep into C/C++ and hardware-level programming. Here's what I'm building right now:
 
 * 🚀 Designing and implementing a **flight control stack** for a Rocket
+* 🤖 Currently developing on a Unitree G1 Robot
 
 
 🌱 Outside of engineering, I love reading, currently working my way through *The Handmaid's Tale*.
