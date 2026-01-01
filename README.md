@@ -11,9 +11,8 @@ A Computer Engineering student passionate about **embedded systems**, **robotics
 
 I'm currently diving deep into C/C++ and hardware-level programming. Here's what I'm building right now:
 
-* ✈️ Designing and implementing a **flight control stack** for a canard-style aircraft.
-* 🚗 Writing a low-level **CAN bus driver** for inter-board communication on custom-designed PCBs.
-* 💻 Updating my personal portfolio website.
+* 🚀 Designing and implementing a **flight control stack** for a Rocket
+
 
 🌱 Outside of engineering, I love reading, currently working my way through *The Handmaid's Tale*.
 
