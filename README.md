@@ -12,7 +12,6 @@ A Computer Engineering student passionate about **embedded systems**, **robotics
 I'm currently diving deep into C/C++ and hardware-level programming. Here's what I'm building right now:
 
 * 🚀 Designing and implementing a **flight control stack** for a Rocket
-* 🔥 Implementing a Linear Kalman Filter for altitude and velocity estimation
 * 🤖 Currently developing on a Unitree G1 Robot
 
 
